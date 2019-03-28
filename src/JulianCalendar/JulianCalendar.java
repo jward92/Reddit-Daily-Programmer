@@ -1,3 +1,5 @@
+package JulianCalendar;
+
 //Pushing changes to GitHub
 public class JulianCalendar{
     public static void main(String[] args){
