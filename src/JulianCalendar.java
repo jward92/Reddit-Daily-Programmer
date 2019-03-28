@@ -1,3 +1,4 @@
+//Pushing changes to GitHub
 public class JulianCalendar{
     public static void main(String[] args){
 
@@ -9,7 +10,7 @@ public class JulianCalendar{
         System.out.println(leaps(123456, 123456));
         System.out.println(leaps(1234, 5678));
         System.out.println(leaps(123456, 7891011));
-        System.out.println(leaps(123456789101112l, 1314151617181920l));
+        System.out.println(leaps(123456789101112L, 1314151617181920L));
     }
 
     public static long leaps(long year1, long year2){
